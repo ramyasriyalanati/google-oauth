@@ -1,2 +1,2 @@
 # google-oauth-angular
-Example of integrating google oauth in an angular app
+Example of integrating google oauth in an angular app (part of Waitimes)
